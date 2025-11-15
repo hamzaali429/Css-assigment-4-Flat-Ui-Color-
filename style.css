@@ -1,0 +1,72 @@
+.parent{
+    height:100%;
+    width:100% ;
+    display: flex;
+    flex-direction: row;
+}
+
+.div-1,.div-2,.div-3,.div-4,.div-5{
+   height:140px;
+   width:300px;
+}
+.div-1{background-color: rgb(175, 5, 5);}
+.div-2{background-color: red;}
+.div-3{background-color: rgb(96, 151, 7);}
+.div-4{background-color: rgb(8, 243, 126);}
+.div-5{background-color: rgb(226, 250, 7);}
+
+.box{
+    height:100%;
+    width:100% ;
+    display: flex;
+    flex-direction: row;
+}
+
+.div-6,.div-7,.div-8,.div-9,.div-10{
+   height:140px;
+   width:300px;
+}
+.div-6{background-color: rgb(143, 141, 7);}
+.div-7{background-color: rgb(40, 5, 122);}
+.div-8{background-color: rgb(20, 4, 252);}
+.div-9{background-color: rgb(5, 154, 180);}
+.div-10{background-color: rgb(0, 195, 255);}
+
+.container{
+    height:100%;
+    width:100% ;
+    display: flex;
+    flex-direction: row;
+}
+
+.div-11,.div-12,.div-13,.div-14,.div-15{
+   height:140px;
+   width:300px;
+}
+.div-11{background-color:lightcyan;}
+.div-12{background-color: rgb(255, 0, 212);}
+.div-13{background-color: rgb(98, 2, 117);}
+.div-14{background-color: rgb(231, 4, 252);}
+.div-15{background-color: rgb(209, 146, 9);}
+
+.card{
+    height:100%;
+    width:100% ;
+    display: flex;
+    flex-direction: row;
+}
+
+.div-16,.div-17,.div-18,.div-19,.div-20{
+   height:140px;
+   width:300px;
+}
+
+.div-16{background-color: rgb(255, 187, 0);}
+.div-17{background-color: rgb(37, 3, 3);}
+.div-18{background-color: grey;}
+.div-19{background-color:lightgray;}
+.div-20{background-color: lightsalmon;}
+
+.div70{
+    margin-top: 13px;
+}
